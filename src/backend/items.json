@@ -1,0 +1,146 @@
+{
+  "items": [
+    [
+      {
+        "id": 1,
+        "img": "../../1.jpg",
+        "company": "Carlton London",
+        "product": "Rhodium-Plated CZ Floral Studs",
+        "price": 1045,
+        "discount": 42,
+        "rating": 4.5,
+        "raters": 1400
+      },
+      {
+        "id": 2,
+        "img": "../../2.jpg",
+        "company": "CUKOO",
+        "product": "Women Padded Swimming Dress",
+        "price": 2599,
+        "discount": 42,
+        "rating": 4.3,
+        "raters": 24
+      },
+      {
+        "id": 3,
+        "img": "../../3.jpg",
+        "company": "NUEVOSDAMAS",
+        "product": "Women Red Knee-Length Skirts",
+        "price": 1599,
+        "discount": 69,
+        "rating": 4.1,
+        "raters": 249
+      },
+      {
+        "id": 4,
+        "img": "../../4.jpg",
+        "company": "ADIDAS",
+        "product": "Indian Cricket ODI Jersey",
+        "price": 999,
+        "discount": 0,
+        "rating": 5,
+        "raters": 3
+      },
+      {
+        "id": 5,
+        "img": "../../5.jpg",
+        "company": "Roadster",
+        "product": "Pure Cotton T-shirt",
+        "price": 1399,
+        "discount": 65,
+        "rating": 4.2,
+        "raters": 3500
+      },
+      {
+        "id": 6,
+        "img": "../../6.jpg",
+        "company": "Nike",
+        "product": "Men ReactX Running Shoes",
+        "price": 14995,
+        "discount": 0,
+        "rating": 0,
+        "raters": 0
+      },
+      {
+        "id": 7,
+        "img": "../../7.jpg",
+        "company": "The Indian Garage Co",
+        "product": "Men Slim Fit Regular Shorts",
+        "price": 1599,
+        "discount": 60,
+        "rating": 4.2,
+        "raters": 388
+      },
+      {
+        "id": 8,
+        "img": "../../8.jpg",
+        "company": "Nivea",
+        "product": "Men Fresh Deodrant 150ml",
+        "price": 285,
+        "discount": 50,
+        "rating": 4.2,
+        "raters": 5200
+      },
+      {
+        "id": 9,
+        "img": "../../shoe.png",
+        "rating": 4.5,
+        "raters": 492,
+        "company": "Zudio",
+        "product": "Banana Shoes",
+        "price": 2399,
+        "discount": 50
+      },
+      {
+        "id": 12,
+        "img": "../../wd.png",
+        "rating": 4.2,
+        "raters": 1678,
+        "company": "Woodland",
+        "product": "Cherry Back",
+        "price": 4999,
+        "discount": 50
+      },
+      {
+        "id": 13,
+        "img": "../../add.png",
+        "rating": 4.8,
+        "raters": 389,
+        "company": "Adidas",
+        "product": "Sprint Sneaks",
+        "price": 2999,
+        "discount": 50
+      },
+      {
+        "id": 14,
+        "img": "../../pm.png",
+        "rating": 3.8,
+        "raters": 657,
+        "company": "Puma",
+        "product": "Sneakers",
+        "price": 1299,
+        "discount": 50
+      },
+      {
+        "id": 15,
+        "img": "../../kn.png",
+        "rating": 4.3,
+        "raters": 5831,
+        "company": "Kunai",
+        "product": "Ninja Wears",
+        "price": 1199,
+        "discount": 50
+      },
+      {
+        "id": 16,
+        "img": "../../sw.png",
+        "rating": 4.7,
+        "raters": 479,
+        "company": "Sowa",
+        "product": "Katana Creaks",
+        "price": 1499,
+        "discount": 50
+      }
+    ]
+  ]
+}
