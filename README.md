@@ -10,7 +10,7 @@
 </head>
 <body>
     <header>
-        <a href=""><img id="logo" src="assets/builder/logo.png"></a>
+        <a href=""><img id="logo" src="forDes/assets/builder/logo.png"></a>
         <nav class="nav1">
             <a href="" class="men">Men</a>
             <a href="" class="women">Women</a>
@@ -30,15 +30,15 @@
             </span>
             <nav class="nav2">
                 <a href="" class="ab">
-                    <img class="navicons" src="assets/builder/profile.png">
+                    <img class="navicons" src="forDes/assets/builder/profile.png">
                     Profile
                 </a>
                 <a href="" class="ab">
-                    <img class="navicons" src="assets/builder/MyntraWeb.png">
+                    <img class="navicons" src="forDes/assets/builder/MyntraWeb.png">
                     Wishlist
                 </a>
                 <a href="" class="ab">
-                    <img class="navicons" src="assets/builder/bag.png">
+                    <img class="navicons" src="forDes/assets/builder/bag.png">
                     Bag<sup id="bagsup"></sup>
                 </a>
             </nav>
