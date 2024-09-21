@@ -1,3 +1,18 @@
+import logo from "../assets/builder/logo.png"
+import propic from "../assets/builder/profile.png"
+import wishli from "../assets/builder/MyntraWeb.png"
+import bag from "../assets/builder/bag.png"
+import { Link } from "react-router-dom"
+import { useSelector } from "react-redux"
+
+export const Header = () => {
+
+    const bagg = useSelector(store => store.bag)
+
+    const inBag = bagg.length
+
+  return (
+    <>
     <header>
         <Link to="/"><img id="logo" src={logo} /></Link>
         <nav className="nav1">
@@ -28,3 +43,6 @@
             </Link>
         </nav>
     </header>
+    </>
+  )
+}
